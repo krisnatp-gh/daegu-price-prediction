@@ -62,3 +62,16 @@ The developed Random Forest model demonstrates strong predictive capabilities fo
 - Expand the geographical scope of the model
 - Incorporate additional relevant features
 - Continuously refine the model based on user feedback and market trends
+
+## Dependencies and Versions
+```
+Python version: 3.12.2
+NumPy version: 1.26.4
+Pandas version: 2.2.2
+Matplotlib version: 3.8.4
+Seaborn version: 0.13.2
+SHAP version: 0.46.0
+Hyperopt version: 0.46.0
+Scikit-learn version: 1.5.1
+XGBoost version: 2.1.1
+```
